@@ -22,12 +22,18 @@ __________________________
 3. Prepare Your Image:
     Place a black-and-white line drawing (e.g., Hello.png) on your Desktop.
     Modify the image path in the script if you’re using a different name or location.
-4. Run the Script:
+   
+![image](https://github.com/user-attachments/assets/8ae408f1-6764-42ec-aeea-0041fcf5140e)
+
+5. Run the Script:
     Execute the Python script (python desmosify.py) using your terminal or preferred IDE.
     The program will then process the image and create a file called equations.txt in your Downloads folder.
-5. Paste Into Desmos:
+6. Paste Into Desmos:
 `  Open the file, copy the contents, and paste them into the Desmos Graphing Calculator.
     Your image will now appear in equation form after a while.
+
+![image](https://github.com/user-attachments/assets/e82720b0-b7da-413b-87c5-b2bbd06fdf04)
+
 
 (Customization Options) Desmosify includes configurable parameters that allow you to adjust output fidelity and control complexity, such as:
 
